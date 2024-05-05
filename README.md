@@ -1,6 +1,5 @@
 # blender-python
-
-- 深層学習での物体検出の仕事で、学習用データ生成のため blender 利用した
-- カメラ位置、回転、ライティング　だけでなく、物理シミュレーションもっと python で手軽に扱えれば面白いのに。
-- ビニールラップで包む、クッション畳んで縛ったり、近くのガラスへの反射、　ライティングでの色味変化など。
-- 現場・店舗で発生する様々な事象に対応した学習データ生成・準備は大変。ドメイン適応や（高度な）画像処理だけでは限界。
+- I have used Blender (https://www.blender.org/) to augment images for training for deep learning based object detection model.
+- Using Blender python will be more interesting:
+  - if not only for basics such as camera position, rotation and lighting, but also physical simulation is easily performed.
+  - **Physical simulation** such as wrapping vinyl, binding cushion (some elastic transformation), reflection, color/tone change, etc...
